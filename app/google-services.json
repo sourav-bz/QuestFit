@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "835181538570",
+    "project_id": "questfit-d8ec9",
+    "storage_bucket": "questfit-d8ec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835181538570:android:2f9f9a81046514783bdef3",
+        "android_client_info": {
+          "package_name": "com.souravk.questfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835181538570-p3612l1mqf454tk2d53l1lelpgqo3pmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.souravk.questfit",
+            "certificate_hash": "2daac5e855ee57d9c552f4ad6e1928090af54f37"
+          }
+        },
+        {
+          "client_id": "835181538570-afjcnf81k1kdr5qireddtoo7namie6jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQnDV41-z1XUZS8j7HVio--wCT8LYYIQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835181538570-afjcnf81k1kdr5qireddtoo7namie6jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
